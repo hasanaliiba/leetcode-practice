@@ -1,3 +1,5 @@
+// Problem: https://leetcode.com/problems/richest-customer-wealth/description/
+
 // function maximumWealth(accounts: number[][]): number {
 //     let finalArray : number[] = new Array(accounts.length).fill(0);
 //     for(var i = 0; i < accounts.length; i++){
